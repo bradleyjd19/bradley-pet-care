@@ -1,0 +1,39 @@
+body {
+}
+
+#header {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+
+#logo {
+  margin-right: 20px;
+}
+
+#busName,
+#head-links {
+  font-family: 'Luckiest Guy', cursive;
+  color: white;
+}
+
+#busName {
+  padding: 0px 25px;
+  font-size: 40px;
+  text-decoration: none;
+}
+
+#head-links {  
+  font-size: 25px;
+  margin-right: 50px;
+}
+
+/* .fas,
+.busName {
+  display: inline-flex;
+}
+
+.fas {
+  color: navy;
+  font-size: 150px;
+} */
