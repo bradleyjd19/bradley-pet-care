@@ -1,10 +1,15 @@
 body {
 }
 
-#header {
+/* #header {
   display: inline-block;
   width: 100%;
   text-align: center;
+} */
+
+#navBar {
+  padding-left: 8px;
+  padding-right: 8px;
 }
 
 #logo {
@@ -18,13 +23,12 @@ body {
 }
 
 #busName {
-  padding: 0px 25px;
-  font-size: 40px;
+  font-size: 28px;
   text-decoration: none;
 }
 
 #head-links {  
-  font-size: 25px;
+  font-size: 15px;
   margin-right: 50px;
 }
 
